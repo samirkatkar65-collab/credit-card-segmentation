@@ -1,0 +1,5 @@
+Algorithm,Clusters,Noise points,Silhouette (higher),Davies-Bouldin (lower),Calinski-Harabasz (higher)
+K-Means,5,0,0.228,1.577,2214.798
+Hierarchical (Ward),5,0,0.179,1.714,1646.833
+Gaussian Mixture,5,0,0.186,1.688,1730.129
+DBSCAN,2,319,0.29,0.909,150.614

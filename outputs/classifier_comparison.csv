@@ -1,0 +1,5 @@
+Classifier,Test accuracy,Precision (macro),Recall (macro),F1 (macro),5-fold CV accuracy
+Logistic Regression,0.996,0.996,0.996,0.996,0.994
+SVM (RBF kernel),0.977,0.974,0.975,0.975,0.981
+KNN (k=7),0.947,0.948,0.941,0.944,0.945
+Random Forest,0.953,0.95,0.95,0.95,0.96

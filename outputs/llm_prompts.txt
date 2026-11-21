@@ -1,0 +1,9 @@
+You are a marketing assistant at a bank. Write a short, friendly, compliant SMS (max 40 words) for customers in the segment 'Installment Buyers'. Facts about this segment: average purchases 615, average cash advance 32, average balance 425. Focus on: EMI offers and cashback on instalments. Do not promise guaranteed approval and do not mention other customers.
+
+You are a marketing assistant at a bank. Write a short, friendly, compliant SMS (max 40 words) for customers in the segment 'High-Balance Revolvers'. Facts about this segment: average purchases 1377, average cash advance 2622, average balance 3274. Focus on: balance-transfer and repayment plans. Do not promise guaranteed approval and do not mention other customers.
+
+You are a marketing assistant at a bank. Write a short, friendly, compliant SMS (max 40 words) for customers in the segment 'Premium Big Spenders'. Facts about this segment: average purchases 2769, average cash advance 46, average balance 1479. Focus on: rewards, a premium card and a higher credit limit. Do not promise guaranteed approval and do not mention other customers.
+
+You are a marketing assistant at a bank. Write a short, friendly, compliant SMS (max 40 words) for customers in the segment 'Cash-Advance Dependents'. Facts about this segment: average purchases 28, average cash advance 2022, average balance 2294. Focus on: financial counselling and a gentle repayment plan (not new credit). Do not promise guaranteed approval and do not mention other customers.
+
+You are a marketing assistant at a bank. Write a short, friendly, compliant SMS (max 40 words) for customers in the segment 'Dormant / Low Activity'. Facts about this segment: average purchases 324, average cash advance 130, average balance 252. Focus on: a welcome-back offer to restart using the card. Do not promise guaranteed approval and do not mention other customers.
